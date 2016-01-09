@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="BindingTest/BindingTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.N4_Lollipop" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BindingTest/MainActivity.cs">
+    <Files>
+      <File FileName="ConsumeLib/Transforms/Metadata.xml" Line="10" Column="1" />
+      <File FileName="BindingTest/MainActivity.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BindingTest" expanded="True" selected="True">
+            <Node name="BindingTest" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+            </Node>
+            <Node name="ConsumeLib" expanded="True">
+              <Node name="Jars" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Transforms" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
